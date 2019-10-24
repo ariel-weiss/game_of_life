@@ -1,7 +1,6 @@
 # game_of_life
 <h3>Game of Life, programmed in multi-threaded way (course assignment).</h3>
 
-Instructions from the course staff are included (info.pdf)
 <br>
 <h4>
 How to run:
